@@ -1,3 +1,7 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1><title> How to use Hacktoberfest</title></h1>
 ![](https://raw.githubusercontent.com/Parajulibkrm/Hacktoberfest-Nepal/master/Images/hacktoberfestMeetupNepal.png)
 
 <br/>
@@ -10,8 +14,8 @@
             <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
         </a>   
     
-</div>
-
+</div><head>
+<body>
 <div align="center">
   <sub>Built with ❤︎ by
   <a href="https://twitter.com/Codekavya">Code Kavya</a> and
@@ -84,3 +88,4 @@ If you have participated in Hacktoberfest Meetup Nepal and created successful pu
 - [the_poetry_forum](https://github.com/Sandesh-Sharma/the_poetry_forum)
 - [Hacktoberfest-Nepal-2020](https://github.com/Saugat-Adhikari/Hacktoberfest-Nepal-2020)
 - [Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
+</body> </html>
